@@ -1,0 +1,1 @@
+# Solidity Contracts for Fat Kittens Collection
